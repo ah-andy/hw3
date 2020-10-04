@@ -1,0 +1,75 @@
+Header/Logo Title
+.header {
+  padding: 50px;
+  text-align: center;
+  background: #ffff;
+  color: #ffff;
+  font-size: 35px;
+}
+
+.container  {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: white;
+  margin-top: 0;
+  font-size: 70px;
+}
+
+p {
+  margin-top: 0;
+  color: white;
+  font-size: 18px;
+  font-kerning: auto;
+  line-height: 1.5em;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow:auto;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 500;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 14px;
+  text-decoration:underline;
+}
+
+li a:hover {
+  background-color: #F7F59E;
+}
+
+.centered {
+position: absolute;
+top: 28%;
+left: 38%;
+transform: translate(-50%, -50%);
+}
+
+footer {
+text-align: center;
+position: fixed;
+left: 0px;
+padding: 0px;
+bottom: 0;
+width: 100%;
+background-color: black;
+color: black;
+text-align: center;
+}
