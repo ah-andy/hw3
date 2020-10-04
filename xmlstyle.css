@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 song {display:block; border-bottom: 1px solid #00FFFF;
-padding : 7px 0;}
+padding : 30px 0;}
 song artist {font-size: 24px; font-weight: 500;}
 song title {display:block;}
 song genre {display:block;}
