@@ -3,122 +3,122 @@
 <songs>
     <song>
       <artist>
-        <firstName> Billie
+        <firstName>Earl
         </firstName>
-        <lastName> Eilish
+        <lastName>Sweatshirt
           </lastName>
       </artist>
-      <title>bad guy</title>
-      <genre>pop</genre>
-      <year>2019</year>  
-    </song>
-    
-    <song>
-      <artist>
-        <firstName> Frank
-        </firstName>
-        <lastName> Ocean
-          </lastName>
-      </artist>
-      <title>Ivy</title>
-      <genre>Soul</genre>
-      <year>2016</year>  
-    </song>
-    
-    <song>
-      <artist>
-        <firstName> Bon
-        </firstName>
-        <lastName> Iver
-          </lastName>
-      </artist>
-      <title>00000 Million</title>
-      <genre>Experimental</genre>
-      <year>2016</year>  
-    </song>
-    
-    <song>
-      <artist>
-        <firstName> Daniel
-        </firstName>
-        <lastName> Caesar
-          </lastName>
-      </artist>
-      <title>Japanese Denim</title>
-      <genre>Soul</genre>
-      <year>2016</year>  
-    </song>
-    
-    <song>
-      <artist>
-        <firstName> Billie
-        </firstName>
-        <lastName> Eilish
-          </lastName>
-      </artist>
-      <title>idontwannabeyouanymore</title>
-      <genre>Pop</genre>
-      <year>2017</year>  
-    </song>
-    
-    <song>
-      <artist>
-        <firstName> Gus
-        </firstName>
-        <lastName> Dapperton
-          </lastName>
-      </artist>
-      <title>Prune, You Talk Funny</title>
-      <genre>Experimental</genre>
-      <year>2017</year>  
-    </song>
-    
-    <song>
-      <artist>
-        <firstName> Frank
-        </firstName>
-        <lastName> Ocean
-          </lastName>
-      </artist>
-      <title>Sweet Life</title>
-      <genre>Soul</genre>
-      <year>2012</year>  
-    </song>
-    
-    <song>
-      <artist>
-        <firstName> Earl 
-        </firstName>
-        <lastName> Sweatshirt
-          </lastName>
-      </artist>
-      <title>Nowhere2go</title>
-      <genre>Rap</genre>
+      <title>Shattered Dreams</title>
+      <genre>hip hop</genre>
       <year>2018</year>  
     </song>
     
     <song>
       <artist>
-        <firstName> Kanye
+        <firstName>Earl
         </firstName>
-        <lastName> West
+        <lastName>Sweatshirt
           </lastName>
       </artist>
-      <title>Pt.2</title>
-      <genre>Rap</genre>
+      <title>Cold Summers</title>
+      <genre>hip hop</genre>
+      <year>2018</year>  
+    </song>
+    
+    <song>
+      <artist>
+        <firstName>Frank
+        </firstName>
+        <lastName>Ocean
+          </lastName>
+      </artist>
+      <title>Ivy</title>
+      <genre>Alternative</genre>
       <year>2016</year>  
     </song>
     
     <song>
       <artist>
-        <firstName> Kendrick
+        <firstName>Tyler
         </firstName>
-        <lastName> Lamar
+        <lastName>the Creator
           </lastName>
       </artist>
-      <title>BLOOD.</title>
-      <genre>Rap</genre>
+      <title>Okra</title>
+      <genre>hip hop</genre>
       <year>2017</year>  
+    </song>
+    
+    <song>
+      <artist>
+        <firstName>Earl
+        </firstName>
+        <lastName>Sweatshirt
+          </lastName>
+      </artist>
+      <title>nowhere2go</title>
+      <genre>hip hop</genre>
+      <year>2018</year>  
+    </song>
+    
+    <song>
+      <artist>
+        <firstName>Earl
+        </firstName>
+        <lastName>Sweatshirt
+          </lastName>
+      </artist>
+      <title>GHOST</title>
+      <genre>hip hop</genre>
+      <year>2020</year>  
+    </song>
+    
+    <song>
+      <artist>
+        <firstName>MAVI
+        </firstName>
+        <lastName>
+          </lastName>
+      </artist>
+      <title>Senses</title>
+      <genre>Soul</genre>
+      <year>2018</year>  
+    </song>
+    
+    <song>
+      <artist>
+        <firstName>Kendrick 
+        </firstName>
+        <lastName>Lamar
+          </lastName>
+      </artist>
+      <title>Momma</title>
+      <genre>hip hop</genre>
+      <year>2015</year>  
+    </song>
+    
+    <song>
+      <artist>
+        <firstName>Hether
+        </firstName>
+        <lastName>
+          </lastName>
+      </artist>
+      <title>Twinkle</title>
+      <genre>Indie</genre>
+      <year>2020</year>  
+    </song>
+    
+    <song>
+      <artist>
+        <firstName>Kendrick
+        </firstName>
+        <lastName>Lamar
+          </lastName>
+      </artist>
+      <title>These Walls</title>
+      <genre>hip hop</genre>
+      <year>2015</year>  
     </song>
   
   
