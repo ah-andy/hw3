@@ -1,10 +1,7 @@
 @charset "utf-8";
 
-song {display:block; border-bottom: 1px solid #FF4500;
-padding : 8px 0;}
 song artist {font-size: 30px; font-weight: 700;}
 song title {display:block;}
-song genre {display:block;}
-song genre:before {content:"Genre: "; }  
+song genre {display:block;}  
 song year {display:block;}
 song year:before {content:"Release Year: "; } 
